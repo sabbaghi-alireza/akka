@@ -1,1 +1,1 @@
-# akka-poc
+# akka repository
